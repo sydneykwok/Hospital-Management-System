@@ -1,0 +1,234 @@
+{
+  "accounts": [
+    {
+      "patient": [
+        {
+          "password": "password12345",
+          "appointments": [
+            "1",
+            "2"
+          ],
+          "gender": "Female",
+          "last_name": "Paslawski",
+          "id": "1",
+          "first_name": "Erin",
+          "prescriptions": [
+            "drug2",
+            "drug2"
+          ],
+          "age": "25",
+          "email": "edpaslaw@ucalgary.ca",
+          "username": "edpaslaw"
+        },
+        {
+          "password": "password12345",
+          "appointments": [
+            "3",
+            "4"
+          ],
+          "gender": "Male",
+          "last_name": "F",
+          "id": "2",
+          "first_name": "Arthur",
+          "prescriptions": [
+            "drug2",
+            "drug2"
+          ],
+          "age": "25",
+          "email": "gfrediani1@senate.gov",
+          "username": "gfrediani1"
+        },
+        {
+          "password": "password12345",
+          "appointments": [],
+          "gender": "Female",
+          "last_name": "Bea",
+          "id": "3",
+          "first_name": "Noell",
+          "prescriptions": [
+            "drug2",
+            "drug2"
+          ],
+          "age": "25",
+          "email": "nbea2@imageshack.us",
+          "username": "nbea2"
+        },
+        {
+          "password": "password12345",
+          "appointments": [],
+          "gender": "Male",
+          "last_name": "Valek",
+          "id": "4",
+          "first_name": "Willard",
+          "prescriptions": [
+            "drug2",
+            "drug2"
+          ],
+          "age": "25",
+          "email": "wvalek3@vk.com",
+          "username": "wvalek3"
+        },
+        {
+          "password": "passw0rd",
+          "appointments": [
+            "5",
+            "6"
+          ],
+          "gender": "Female",
+          "last_name": "Kwok",
+          "id": "5",
+          "first_name": "Sydney",
+          "prescriptions": [
+            "drug1",
+            "drug2",
+            "drug3",
+            "drug4",
+            "drug5",
+            "drug6",
+            "drug7"
+          ],
+          "age": "19",
+          "email": "sydney.kwok@ucalgary.ca",
+          "username": "sydney.kwok"
+        }
+      ]
+    },
+    {
+      "doctor": [
+        {
+          "schedule": {
+            "04/12": "8/16",
+            "04/13": "12/18",
+            "04/14": "12/18",
+            "04/15": "12/18",
+            "04/16": "12/18"
+          },
+          "password": "docPassword",
+          "appointments": [
+            {
+              "ID": "2"
+            },
+            {
+              "ID": "4"
+            },
+            {
+              "ID": "6"
+            }
+          ],
+          "gender": "Male",
+          "patients": [
+            "1",
+            "2",
+            "5"
+          ],
+          "last_name": "Sohaib",
+          "id": "1",
+          "first_name": "Dr",
+          "email": "bajwa@ucalgary.ca",
+          "username": "bajwa"
+        },
+        {
+          "schedule": {},
+          "password": "iamadoc",
+          "appointments": [],
+          "gender": "Male",
+          "patients": [
+            "3",
+            "4"
+          ],
+          "last_name": "Martens",
+          "id": "2",
+          "first_name": "Doc",
+          "email": "doc.martens@doctor.ca",
+          "username": "doc.martens"
+        },
+        {
+          "schedule": {},
+          "password": "iamdoc",
+          "appointments": [],
+          "gender": "Male",
+          "patients": [
+            "5"
+          ],
+          "last_name": "Doc",
+          "id": "3",
+          "first_name": "Doctor",
+          "email": "doc@doc.com",
+          "username": "doc"
+        },
+        {
+          "schedule": {
+            "04/20": "10/12",
+            "04/21": "10/12"
+          },
+          "password": "ba",
+          "appointments": [
+            {
+              "ID": "1"
+            },
+            {
+              "ID": "3"
+            },
+            {
+              "ID": "5"
+            }
+          ],
+          "gender": "Male",
+          "patients": [
+            "5"
+          ],
+          "last_name": "Boogy",
+          "id": "4",
+          "first_name": "Boogie",
+          "email": "boogie@",
+          "username": "boogie"
+        }
+      ]
+    },
+    {
+      "nurse": [
+        {
+          "schedule": {
+            "06/25": "10/18",
+            "04/15": "9/15",
+            "04/16": "9/15",
+            "04/17": "9/15"
+          },
+          "password": "nursePassword",
+          "gender": "Female",
+          "last_name": "Jacky",
+          "id": "1",
+          "first_name": "Nurse",
+          "email": "nurse@ucalgary.ca",
+          "username": "nurse"
+        }
+      ]
+    },
+    {
+      "assistant": [
+        {
+          "password": "assistantPassword",
+          "gender": "Female",
+          "last_name": "Person",
+          "id": "1",
+          "first_name": "Assistant",
+          "email": "assistant@ucalgary.ca",
+          "username": "assistant"
+        }
+      ]
+    },
+    {
+      "administrator": [
+        {
+          "password": "adminPassword",
+          "gender": "Female",
+          "last_name": "Boss",
+          "id": "1",
+          "first_name": "Big",
+          "email": "admin@ucalgary.ca",
+          "username": "admin"
+        }
+      ]
+    }
+  ]
+}

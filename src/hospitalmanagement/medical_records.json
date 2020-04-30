@@ -1,0 +1,241 @@
+{"medicalrecords":[
+	{
+	"patientIndex": "0",
+	"notes": [
+		"NOTES: Patient positive for COVID-19 but exhibiting some unusual symptoms. See test informations for more details.",
+		"APPT: 1",
+		"APPT: 2"
+		],
+	"maritalstatus":"Single",
+	"race": "Caucasian",
+	"problems": "NONE",
+	"medications": [
+		"Medication Name / Doctor Prescribed / Amount / Date of Refill",
+		"Medication Name / Doctor Prescribed / Amount / Date of Refill"
+		],
+	"allergies": [
+		"Allgery 1",
+		"Allergy 2"
+		],
+	"physical": [{
+		"temp": "98.0 degF",
+		"pulse": "67",
+		"rhythm": "regular",
+		"bp": "120/80",
+		"height": "162 cm.",
+		"weight": "10 lbs.",
+		"appearance": "well developed, well nourished, no acute distress",
+		"eyes": "conjunctiva and lids normal, PERRLA, EOMI, fundi WNL",
+		"ENMT": "TM clear, nares clear, oral exam WNL",
+		"respiratory": "clear auscultation and percussion, respiratory effort normal",
+		"cardiovascular": "regular rate and rhythm, S1-S2, no murmur, rub or gallop, no bruits, peripheral pulses normal and symmetric, no cyanosis, clubbing, edema or varicosities",
+		"skin": "clear, good turgor, color WNL, no rashes, lesions, or ulcerations",
+		"problems": "Blood pressure is lower. Feet are inspected and there are no callouses, no compromised skin. No vision complaints.",
+		"impression": "Sub optimal sugar, control with retinopathy and neuropathy, high glucometer readings. Will work harder on diet. Will increase insulin by 2 units.",
+		"lastupdated": "DATE",
+		"updatedby": "Doctor Name"
+		}],
+	"plan": [{
+		"medications": "Medication Name / Amount / Consumption Time",
+		"treatment": "Will have annual foot exam at next visit."
+		}],
+	"testorders": [
+		"TEST: 01",
+		"TEST: 02",
+		"TEST: 03"
+	],
+	"location": "Totally-Legit-And-Not-Imaginary Hospital"
+	},
+	
+	{
+	"patientIndex": "1",
+	"notes": [
+		"NOTES: Patient positive for COVID-19 but exhibiting some unusual symptoms. See test informations for more details.",
+		"APPT: 1",
+		"APPT: 2"
+		],
+	"maritalstatus":"Single",
+	"race": "Caucasian",
+	"problems": "NONE",
+	"medications": [
+		"Medication Name / Doctor Prescribed / Amount / Date of Refill",
+		"Medication Name / Doctor Prescribed / Amount / Date of Refill"
+		],
+	"allergies": [
+		"Allgery 1",
+		"Allergy 2"
+		],
+	"physical": [{
+		"temp": "98.0 degF",
+		"pulse": "67",
+		"rhythm": "regular",
+		"bp": "120/80",
+		"height": "162 cm.",
+		"weight": "10 lbs.",
+		"appearance": "well developed, well nourished, no acute distress",
+		"eyes": "conjunctiva and lids normal, PERRLA, EOMI, fundi WNL",
+		"ENMT": "TM clear, nares clear, oral exam WNL",
+		"respiratory": "clear auscultation and percussion, respiratory effort normal",
+		"cardiovascular": "regular rate and rhythm, S1-S2, no murmur, rub or gallop, no bruits, peripheral pulses normal and symmetric, no cyanosis, clubbing, edema or varicosities",
+		"skin": "clear, good turgor, color WNL, no rashes, lesions, or ulcerations",
+		"problems": "Blood pressure is lower. Feet are inspected and there are no callouses, no compromised skin. No vision complaints.",
+		"impression": "Sub optimal sugar, control with retinopathy and neuropathy, high glucometer readings. Will work harder on diet. Will increase insulin by 2 units.",
+		"lastupdated": "DATE",
+		"updatedby": "Doctor Name"
+		}],
+	"plan": [{
+		"medications": "Medication Name / Amount / Consumption Time",
+		"treatment": "Will have annual foot exam at next visit."
+		}],
+	"testorders": [
+		"TEST: 01",
+		"TEST: 02",
+		"TEST: 03"
+	],
+	"location": "Totally-Legit-And-Not-Imaginary Hospital"
+	},
+	
+	{
+	"patientIndex": "2",
+	"notes": [
+		"NOTES: Patient positive for COVID-19 but exhibiting some unusual symptoms. See test informations for more details.",
+		"APPT: 1",
+		"APPT: 2"
+		],
+	"maritalstatus":"Single",
+	"race": "Caucasian",
+	"problems": "NONE",
+	"medications": [
+		"Medication Name / Doctor Prescribed / Amount / Date of Refill",
+		"Medication Name / Doctor Prescribed / Amount / Date of Refill"
+		],
+	"allergies": [
+		"Allgery 1",
+		"Allergy 2"
+		],
+	"physical": [{
+		"temp": "98.0 degF",
+		"pulse": "67",
+		"rhythm": "regular",
+		"bp": "120/80",
+		"height": "162 cm.",
+		"weight": "10 lbs.",
+		"appearance": "well developed, well nourished, no acute distress",
+		"eyes": "conjunctiva and lids normal, PERRLA, EOMI, fundi WNL",
+		"ENMT": "TM clear, nares clear, oral exam WNL",
+		"respiratory": "clear auscultation and percussion, respiratory effort normal",
+		"cardiovascular": "regular rate and rhythm, S1-S2, no murmur, rub or gallop, no bruits, peripheral pulses normal and symmetric, no cyanosis, clubbing, edema or varicosities",
+		"skin": "clear, good turgor, color WNL, no rashes, lesions, or ulcerations",
+		"problems": "Blood pressure is lower. Feet are inspected and there are no callouses, no compromised skin. No vision complaints.",
+		"impression": "Sub optimal sugar, control with retinopathy and neuropathy, high glucometer readings. Will work harder on diet. Will increase insulin by 2 units.",
+		"lastupdated": "DATE",
+		"updatedby": "Doctor Name"
+		}],
+	"plan": [{
+		"medications": "Medication Name / Amount / Consumption Time",
+		"treatment": "Will have annual foot exam at next visit."
+		}],
+	"testorders": [
+		"TEST: 01",
+		"TEST: 02",
+		"TEST: 03"
+	],
+	"location": "Totally-Legit-And-Not-Imaginary Hospital"
+	},
+	
+	{
+	"patientIndex": "3",
+	"notes": [
+		"NOTES: Patient positive for COVID-19 but exhibiting some unusual symptoms. See test informations for more details.",
+		"APPT: 1",
+		"APPT: 2"
+		],
+	"maritalstatus":"Single",
+	"race": "Caucasian",
+	"problems": "NONE",
+	"medications": [
+		"Medication Name / Doctor Prescribed / Amount / Date of Refill",
+		"Medication Name / Doctor Prescribed / Amount / Date of Refill"
+		],
+	"allergies": [
+		"Allgery 1",
+		"Allergy 2"
+		],
+	"physical": [{
+		"temp": "98.0 degF",
+		"pulse": "67",
+		"rhythm": "regular",
+		"bp": "120/80",
+		"height": "162 cm.",
+		"weight": "10 lbs.",
+		"appearance": "well developed, well nourished, no acute distress",
+		"eyes": "conjunctiva and lids normal, PERRLA, EOMI, fundi WNL",
+		"ENMT": "TM clear, nares clear, oral exam WNL",
+		"respiratory": "clear auscultation and percussion, respiratory effort normal",
+		"cardiovascular": "regular rate and rhythm, S1-S2, no murmur, rub or gallop, no bruits, peripheral pulses normal and symmetric, no cyanosis, clubbing, edema or varicosities",
+		"skin": "clear, good turgor, color WNL, no rashes, lesions, or ulcerations",
+		"problems": "Blood pressure is lower. Feet are inspected and there are no callouses, no compromised skin. No vision complaints.",
+		"impression": "Sub optimal sugar, control with retinopathy and neuropathy, high glucometer readings. Will work harder on diet. Will increase insulin by 2 units.",
+		"lastupdated": "DATE",
+		"updatedby": "Doctor Name"
+		}],
+	"plan": [{
+		"medications": "Medication Name / Amount / Consumption Time",
+		"treatment": "Will have annual foot exam at next visit."
+		}],
+	"testorders": [
+		"TEST: 01",
+		"TEST: 02",
+		"TEST: 03"
+	],
+	"location": "Totally-Legit-And-Not-Imaginary Hospital"
+	},
+	
+	{
+	"patientIndex": "4",
+	"notes": [
+		"NOTES: Patient positive for COVID-19 but exhibiting some unusual symptoms. See test informations for more details.",
+		"APPT: 1",
+		"APPT: 2"
+		],
+	"maritalstatus":"Single",
+	"race": "Caucasian",
+	"problems": "NONE",
+	"medications": [
+		"Medication Name / Doctor Prescribed / Amount / Date of Refill",
+		"Medication Name / Doctor Prescribed / Amount / Date of Refill"
+		],
+	"allergies": [
+		"Allgery 1",
+		"Allergy 2"
+		],
+	"physical": [{
+		"temp": "98.0 degF",
+		"pulse": "67",
+		"rhythm": "regular",
+		"bp": "120/80",
+		"height": "162 cm.",
+		"weight": "10 lbs.",
+		"appearance": "well developed, well nourished, no acute distress",
+		"eyes": "conjunctiva and lids normal, PERRLA, EOMI, fundi WNL",
+		"ENMT": "TM clear, nares clear, oral exam WNL",
+		"respiratory": "clear auscultation and percussion, respiratory effort normal",
+		"cardiovascular": "regular rate and rhythm, S1-S2, no murmur, rub or gallop, no bruits, peripheral pulses normal and symmetric, no cyanosis, clubbing, edema or varicosities",
+		"skin": "clear, good turgor, color WNL, no rashes, lesions, or ulcerations",
+		"problems": "Blood pressure is lower. Feet are inspected and there are no callouses, no compromised skin. No vision complaints.",
+		"impression": "Sub optimal sugar, control with retinopathy and neuropathy, high glucometer readings. Will work harder on diet. Will increase insulin by 2 units.",
+		"lastupdated": "DATE",
+		"updatedby": "Doctor Name"
+		}],
+	"plan": [{
+		"medications": "Medication Name / Amount / Consumption Time",
+		"treatment": "Will have annual foot exam at next visit."
+		}],
+	"testorders": [
+		"TEST: 01",
+		"TEST: 02",
+		"TEST: 03"
+	],
+	"location": "Totally-Legit-And-Not-Imaginary Hospital"
+	}]
+}

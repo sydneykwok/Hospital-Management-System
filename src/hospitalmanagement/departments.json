@@ -1,0 +1,40 @@
+{
+  "departments": [
+    {
+      "appointments": [
+        "2",
+        "5"
+      ],
+      "doctors": [
+        "bajwa",
+        "boogie"
+      ],
+      "type": "Neurology",
+      "nurses": []
+    },
+    {
+      "appointments": [
+        "1",
+        "4",
+        "6"
+      ],
+      "doctors": [
+        "bajwa",
+        "boogie"
+      ],
+      "type": "Cardiology",
+      "nurses": []
+    },
+    {
+      "appointments": [
+        "3"
+      ],
+      "doctors": [
+        "bajwa",
+        "boogie"
+      ],
+      "type": "Nephrology",
+      "nurses": []
+    }
+  ]
+}
